@@ -1,0 +1,11 @@
+Datatypes:
+Premitive and non premitive
+
+Premitive datatypes:
+byte, short, int, long > Without decima. These are used for numbers without decimal
+float and double for numbers withdecimal
+char - This represents a single charecter. THis szhould be written ind=side a single quotation mark.
+Boolean
+
+No-premitive datatypes:
+String, Array,HashMap, HashSet
