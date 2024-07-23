@@ -20,5 +20,6 @@ public class Operators {
     int num1 = 10, num2 = 10;
     boolean isEqual = (num1==num2);
     System.out.println("The result is: " + isEqual);
+    //Pascak Naming Convention for classes and camel naming convention for functions
   }
 }
